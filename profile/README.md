@@ -1,11 +1,11 @@
-**VisionAI4Bharat**
+**VisionAI4Bhārat**
 
-🌍 Open Vision AI for Bharat, by Bharat.
+🌍 Open Vision AI for Bhārat, by Bhārat.
 Free (as in free speech) models, datasets, and tools for research, industry, and society.
 
 🌟 **Mission**
 
-VisionAI4Bharat is a community-driven initiative to build open, transparent, and accessible Vision AI models tailored for the diverse needs of India.
+VisionAI4Bhārat is a community-driven initiative to build open, transparent, and accessible Vision AI models tailored for the diverse needs of India.
 We believe AI should not be locked away behind paywalls or licenses—it should be free, collaborative, and empowering.
 
 🎯 **Goals**
@@ -14,7 +14,7 @@ We believe AI should not be locked away behind paywalls or licenses—it should 
 
 🌾 Apply AI to real-world Indian contexts (agriculture, mobility, healthcare, accessibility, manufacturing)
 
-🔤 Support multilingual and multicultural datasets relevant to Bharat
+🔤 Support multilingual and multicultural datasets relevant to Bhārat
 
 🤝 Foster cross-sector collaboration between researchers, students, startups, and industries
 
@@ -34,7 +34,7 @@ Propose projects in areas where Vision AI can make real impact
 
 📂 **Current & Upcoming Projects**
 
-🔍 OpenCLIP for Bharat – semantic video & image search
+🔍 OpenCLIP for Bhārat – semantic video & image search
 
 🚜 AgriVision – crop disease detection & yield monitoring
 
@@ -58,7 +58,7 @@ Submit issues & PRs with clear documentation
 
 💬 **Community**
 
-GitHub: VisionAI4Bharat
+GitHub: VisionAI4Bhārat
 
 Discussions: Coming soon
 
@@ -66,7 +66,7 @@ Mailing list / Slack / Discord: (to be decided — contributors welcome!)
 
 ✨ **Invitation**
 
-We are just getting started. This is your chance to shape the future of Vision AI in Bharat.
+We are just getting started. This is your chance to shape the future of Vision AI in Bhārat.
 Let’s build, share, and empower—together.
 
-🚀 **VisionAI4Bharat: By the people, for the people.**
+🚀 **VisionAI4Bhārat: By the people, for the people.**
